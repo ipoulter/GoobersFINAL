@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5b17949c2ed7360a5f68486ec9e10bf759c8af6a",
+  "SCAN_LINK": "https://polygonscan.com/token/0x5b17949c2ed7360a5f68486ec9e10bf759c8af6a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Goober Society",
+  "SYMBOL": "TGS",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/goober-society",
+  "SHOW_BACKGROUND": true
+}
